@@ -11,7 +11,7 @@ Inside of your [Qwik](https://qwik.dev/) + [Astro](https://astro.build/) project
 ```text
 /
 ├── public/
-│   └── favicon.svg
+│   └── favicon.ico
 ├── src/
 │   ├── assets/
 │   │   ├── astro.svg
