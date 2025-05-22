@@ -10,7 +10,7 @@
     },
     {
       "name": "Hermina Run 2025",
-      "slug": "mkr2024",
+      "slug": "herminarun2025",
       "date": "2024-10-01",
       "img": "../assets/img/projects/herminarun2025.png",
       "desc": "Run event registration of Hermina's hospital which handle 1k++ users dan payments with lucky draw integrated",
@@ -42,3 +42,4 @@
     }
   ]
 }
+
