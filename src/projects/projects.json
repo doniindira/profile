@@ -1,32 +1,20 @@
 {
   "projects": [
     {
-      "slug": "siauto",
-      "name": "SIAuto",
-      "date": "2021-11-13",
-      "img": "../assets/img/projects/siauto.webp",
-      "desc": "A desktop app to Auto filled kuesioner in sia.unmul.ac.id",
-      "web": "https://siauto.dalamkotak.com/",
-      "repo": "https://github.com/oystr29/siauto-desktop",
-      "status": "Deprecated"
+      "name": "Mahakam Korpri Run 2024",
+      "slug": "mkr2024",
+      "date": "2024-10-01",
+      "img": "../assets/img/projects/mkr2024.png",
+      "desc": "Run event registration of Mahakam Korpri Run which handle 2k++ users dan payments with lucky draw integrated",
+      "web": "https://www.instagram.com/mahakamkorprirun/"
     },
     {
-      "slug": "seminar",
-      "name": "Seminar IF",
-      "date": "2022-08-26",
-      "img": "../assets/img/projects/seminar.webp",
-      "desc": "A list schedule of seminar in Informatics, Unmul",
-      "web": "https://seminar.dalamkotak.com/",
-      "repo": "https://github.com/oystr29/seminar"
-    },
-    {
-      "slug": "mesem",
-      "name": "mesem",
-      "date": "2022-08-18",
-      "img": "../assets/img/projects/mesem.webp",
-      "desc": "Chrome extension to used emoji on Gboard Keyboard",
-      "web": "https://chromewebstore.google.com/detail/mesem/cnkmmjnmjcakpgpnfgipomoopgmghcih?hl=en",
-      "repo": "https://github.com/oystr29/mesem-chrome-extensions"
+      "name": "Hermina Run 2025",
+      "slug": "mkr2024",
+      "date": "2024-10-01",
+      "img": "../assets/img/projects/herminarun2025.png",
+      "desc": "Run event registration of Hermina's hospital which handle 1k++ users dan payments with lucky draw integrated",
+      "web": "https://www.instagram.com/p/DHvrrV1vt-R/"
     },
     {
       "name": "SMEXPO Pertamina",
@@ -36,35 +24,21 @@
       "desc": "A marketplace from Pertamina to small and medium enterprises(UMKM)"
     },
     {
-      "name": "AHM Honda",
-      "slug": "ahm",
-      "date": "2023-05-18",
-      "img": "../assets/img/projects/ahm.webp",
-      "desc": "AHM Honda Product Showcase Desktop App"
+      "name": "GenggamanMu : Food Delivery App",
+      "slug": "genggamanmu",
+      "date": "2022-05-18",
+      "img": "../assets/img/projects/genggamanmu.png",
+      "desc": "A food delivery apps with tracking, e-wallet, and real-time chat features",
+      "web": "https://genggamanmu.com/"
+
     },
     {
-      "name": "Stockflow",
-      "slug": "stockflow",
-      "date": "2024-01-30",
-      "img": "../assets/img/projects/stockflow.webp",
-      "desc": "App for manage inventory effortlessly at your fingertips",
-      "web": "https://stockflow.mjsolution.co.id/"
-    },
-    {
-      "name": "weekcan",
-      "slug": "weekcan",
-      "date": "2024-04-21",
-      "img": "../assets/img/projects/weekcan.webp",
-      "desc": "All in one office task management app ",
-      "web": "https://weekcan.hktekno.com/"
-    },
-    {
-      "name": "MJ Solution Indonesia",
-      "slug": "mjs",
+      "name": "Toko Bazar",
+      "slug": "tokobazar",
       "date": "2025-01-31",
-      "img": "../assets/img/projects/mjs.webp",
-      "desc": "Company Profile for MJ Solution Indonesia",
-      "web": "https://mjsolution.co.id/"
+      "img": "../assets/img/projects/tokobazar.png",
+      "desc": "An e-commerce apps for clothing and fashion",
+      "status" : "onwork"
     }
   ]
 }
